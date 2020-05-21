@@ -1,1 +1,36 @@
-How Graph technology is empowering Recommendations?
+# How Graph technology is empowering Recommendations?
+
+From watching a movie, listening a song, buying the clothes, all we do, we all are helped by some recommendation system. Like it suggests the similar products based on our previous interests and what is trending in the market. Even the advertisements that we found is based on our previous browsing history and interests.
+
+Even, health care, a giant industry is not lagging behind in this race. They are helping customers to make a decision with their personalised information to meet their needs, this model is called Next Best Action.
+
+This recommendation may be for an individual’s health and savings, which may be about the pharmacist medication consults, lower-cost drug alternatives, wellness programs and behavioural services. The main motto is to present health care consumers with a personalized course of care that they have a high likelihood of following.
+
+# Okay, but you might be thinking how Graph Technology is used in these recommendations?
+Graph Technology is used as a relationship-building method to empower the recommendation systems to suggest the next best actions.
+Graph Technology is a way of storing our data that allows defining the relationship between our data points.
+
+Drawing these data relationships between the data points, the user is presented with a personalised recommendation based on their previous histories. As no single data point is beneficial without relationships with others.
+We can say “Relationships are more important than the data-points”. The data is usually too complex, we need to find relationship factors between them. 
+
+For developing a good recommendation system, we cannot rely on one or some factors, we need to dig into it, and find more relationships. That’s why Graph Technology is playing a main role in this recommendation systems.
+How Graph Technology empowers Machine Learning?
+
+Machine Learning, an advanced analytical method used to identify the next best actions. But we know that the machine learning models can give us better and more better accuracy as we feed more data, i.e., a large volume of information is required for better. 
+
+These data are not from a single source, we need to get it from lots of unorganised sources. Here, graph technology comes, it translates these unorganised datasets into connected relationships and precise knowledge that fuels the machine learning to process faster and more accurate.
+
+It takes a lot of time (in hours) to process and analyse the data but using the Graph Technology implementation, these hours can come up to minutes. Now our data is heavily interconnected by defining these relationships.
+Many industries using this Graph Technology in their recommendation systems. Optum, United Health Group is also using this in their recommendation for the next best Action suggestion.
+
+In a post by Optum, the author explained how the Graph Technology recommendation helped his relative. That he faced a number of invasive and expensive tests and multiple trips to different facilities for his chest pain. In conclusion, he found that it was just due to indigestion.
+
+With graph technology, an individual’s health history can be compared to the health histories of many other people like them. The graphical relationships can help to analyze what actions others took and understand the outcomes to better inform clinical recommendations.
+
+Since it may not provide the complete answer. But enable the provider to make a faster and more precise decision that patient is having a low probability of cardiac problem and high chances of indigestion, based on similar data of previous records of other patients.
+
+# Is Graph Technology fits in all scenario? Where it should be used?
+Although Graph Technology have many advantages, but may not fit in all scenario. Mainly when data is not too complex, maybe some other approaches work better.
+But in complex data, where data have many influences, one depends on others in some or other manner, it is very necessary for us, to make data explainable, how they are related. I think that this technology his going to fit, as these interdependencies can be easily handled and lead to a better solution there.
+
+# Graph Technology may work on really complex systems where data are dependent on each other.
