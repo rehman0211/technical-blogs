@@ -1,0 +1,36 @@
+# How Artificial Intelligence is helping in fight against COVID-19
+
+>> For better view, look at : https://medium.com/@marehman0211/how-artificial-intelligence-helped-in-fighting-against-covid-19-ea1d760ccddc
+
+The Coronavirus Pandemic, Starting from the city of Wuhan, Coronavirus(COVID-19) has spread to infect more than 2 million people and cause more than 133k deaths across all over the globe (as on April 16). In the fight to this pandemic, the technology sector and specifically artificial intelligence (AI) is helping a lot to control its worst effects.
+During a long fight from last 4 months, we have come up with a lot of data, which is growing exponentially day by day, which is exceeding the limits of the human brain. But Artificial Intelligence(AI) is capable of handling these huge data, from analysis of patterns to diagnosis and even in the development of drugs. This shows how AI is playing a lead role in fighting this crisis.
+Advancements in AI application such as natural language processing, data analytics, machine learning, deep learning, and others have not only been utilized for diagnosis purpose but also for contact tracing and vaccine development. There is no doubt how AI has no doubt aided the control of the COVID-19 pandemic and helped to curb its worst effects.
+AI has been deployed in several ways so far, and the following are just a few of the ways in which AI has been applied as a measure to solve the pandemic:
+
+1. To track and forecast outbreaks:
+Human activity -especially migration- has been responsible for the spread of the virus around the world. From a city, Wuhan to all over the world, this all due to human movements. A Canada based startUp, BlueDot uses AI to track, recognize, and report the spread of the virus quicker than the WHO. The combined analysis of personal, clinical, travel and social data including family history and lifestyle habits obtained from sources like social media would enable more accurate and precise predictions of individual risk profiles and healthcare results.
+To diagnose the virus:
+Using the AI-powered systems, we can diagnose disease much faster than any human. Chinese e-commerce giant Alibaba also built an AI-powered diagnosis system they claim its new system can detect coronavirus in CT scans of patients’ chests with 96% accuracy against viral pneumonia cases. And it only takes 20 seconds for the AI to make a determination, while humans generally take about 15 minutes to diagnose the illness, in which it can evaluate about 300 CT scans.
+
+2. For Thermal temperature detection:
+Using thermal cameras for detecting the people with fever is commonly used. The drawback to this is the need for a human operator. Now cameras possessing AI-based multisensory technology have been deployed on airports and other public places, that automatically detects individuals with fever and tracks their movements, recognize their faces, and detect whether the person is wearing a face mask or not.
+
+3. For Development of Drugs:
+AI has set up a benchmark in the field of drug development too. A British startup, Exscienta became the first company to present an AI designed drug molecule that has gone to human trials. A year is all it took the algorithm to develop the molecular structure compared with the five-year average time that it takes traditional research methods.
+In the same way, AI can lead the charge for the development of antibodies and vaccines for the novel coronavirus, either entirely designed from scratch or through drug repurposing. Google’s DeepMind division used its latest AI algorithms and its computing power to understand the proteins that might make up the virus and published the findings to help others develop treatments (Although the result is not verified, but the step is in the right direction).
+
+4. Virtual Healthcare Assistant (Chatbot):
+A lot of virtual assistant and chatbot is promoted by the governments across the globe. Canada-based Stallion.AI has leveraged its natural language processing capabilities to build a multi-lingual virtual healthcare agent that can answer questions related to COVID-19, provide reliable information and clear guidelines, recommend protection measures, check and monitor symptoms, and advise individuals whether they need hospital screening or self-isolation at their homes. Similarly, Aarogya Setu app by Government of India is promoted.
+
+5. Drones and Robots act as a helping hand in this pandemic:
+The public deployment of drones and robots been accelerated due to the strict social distancing measures required to contain the virus spread. Robots aren’t susceptible to the virus, so they are being deployed to complete many tasks such as cleaning and sterilizing and delivering food and medicine to reduce the amount of human-to-human contact.
+Unmanned Arial Vehicles (UAVs) are one of the safest and fastest ways to transport medical supplies. 
+Also, these drones are being used to track individuals not using facemasks in public, check whether they are following the Lockdown Rules imposed in the area. While some drones are used to broadcast information to larger audiences.
+
+And there are more sectors where AI is playing a lead role. Some of these were discussed here.
+
+While the world continues to fight with the novel coronavirus. Some positive results can be drawn from the expertise and bravery of healthcare workers, as well as the complementary efforts of AI technology to their endeavours in the above-listed ways.
+
+This article is inspired from the two articles by Bernard Marr and Samer Obeidat.
+
+#Coranavirus #AI #Healthcare #Medical
